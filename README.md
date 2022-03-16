@@ -1,1 +1,1 @@
-# RentableNFT-example
+Simple example of rentable functionality for ERC721
